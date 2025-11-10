@@ -1,3 +1,4 @@
 target/
 
 progenitor-impl/tests/output/Cargo.lock
+.direnv/
